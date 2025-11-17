@@ -95,3 +95,4 @@ int	ft_printf(const char *s, ...)
 	va_end(args);
 	return (count);
 }
+
